@@ -36,3 +36,10 @@ This is a simple to-do list app built with React.js and TailwindCSS. It allows y
 
    ```bash
    npm run dev
+
+## Photos of webpage
+
+![Screenshot 2024-03-13 031925](https://github.com/Pandepic-pp/To-Do-List/assets/76521740/2805822b-73b1-4900-af73-6f49fea3383c)
+
+![Screenshot 2024-03-13 031958](https://github.com/Pandepic-pp/To-Do-List/assets/76521740/879cf1b2-a705-4e52-8e5f-7445277b9f20)
+
