@@ -19,7 +19,7 @@ This is a simple to-do list app built with React.js and TailwindCSS. It allows y
 1. Clone the repository:
 
    ```bash
-   git clone [<repository-url>](https://github.com/Pandepic-pp/To-Do-List.git)https://github.com/Pandepic-pp/To-Do-List.git
+   git clone https://github.com/Pandepic-pp/To-Do-List.git)https://github.com/Pandepic-pp/To-Do-List.git
 
 2. Go to the repository:
 
